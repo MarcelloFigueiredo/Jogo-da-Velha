@@ -2,7 +2,7 @@
 
 ![Imagem de Capa do jogo da Velha](./jogodavelha.jpg)
 
-Este é um projeto de um simples **Jogo da Velha* desenvolvido utilizando **HTML**, **CSS** e **JavaScript**.💻✨
+Este é um projeto de um simples *Jogo da Velha* desenvolvido utilizando **HTML**, **CSS** e **JavaScript**.💻✨
 
 ## 🚀 Tecnologias Utilizadas
 
