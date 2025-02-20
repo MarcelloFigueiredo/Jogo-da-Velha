@@ -12,4 +12,5 @@ Este é um projeto de um simples **Jogo da Velha* desenvolvido utilizando **HTML
 
 ## 🌐 Acesse Aqui
 
-Você pode acessar  o Jogo da Velha através deste [link](https://marcellofigueiredo.github.io/jogodavelha/). Basta abrir no seu navegador e começar a usar!
+Você pode acessar  o Jogo da Velha através deste [link](https://marcellofigueiredo.github.io/Jogo-da-Velha/). Basta abrir no seu navegador e começar a usar!
+# Jogo-da-Velha
